@@ -43,7 +43,7 @@
 
 | Project | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
-| 🌤️ **Weather App** | Displays real-time weather info using a public API  | [View Repo](https://github.com/kaneki-op) |
+| 🌤️ **Weather App** | Displays real-time weather info using a public API  | [View Repo](https://kaneki-op.github.io/wefo/) |
 
 > 🌐 More deployed projects coming soon!
 
@@ -53,6 +53,6 @@
 
 <p>
   ✉️ Email: <a href="mailto:prokashxnew@gmail.com">prokashxnew@gmail.com</a> <br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a> *(update this link)*<br>
+  🔗 LinkedIn: <a href="www.linkedin.com/in/prakash-man-b728682a6">linkedin.com/in/prakashman</a><br>
   🧑‍💻 GitHub: <a href="https://github.com/kaneki-op">github.com/kaneki-op</a>
 </p>
