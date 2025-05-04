@@ -43,7 +43,7 @@
 
 | Project | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
-| 🌤️ **Weather App** | Displays real-time weather info using a public API  | [View Repo](https://github.com/kaneki-op/wefo) |
+| 🌤️ **Weather App** | Displays real-time weather info using a public API  | [View Repo](https://github.com/kaneki-op) |
 
 > 🌐 More deployed projects coming soon!
 
