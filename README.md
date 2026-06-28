@@ -44,5 +44,5 @@ Sports — mostly basketball. Competitive there the same way I get competitive o
 ---
 
 **Portfolio:** [kaneki-op.github.io/portfolio](https://kaneki-op.github.io/portfolio)
-**Email:** prokashxnew@gmail.com
-**LinkedIn:** [linkedin.com/in/prakashman](https://linkedin.com/in/prakashman)
+**Email:** prakashman.dev@gmail.com
+**LinkedIn:** [linkedin.com/in/prakashman](https://linkedin.com/in/prakash-man)
