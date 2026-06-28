@@ -1,4 +1,4 @@
-#Prakash
+# Hi I'm Prakash
 
 BCA graduate (Kristu Jayanti University, 2026), now pursuing my MCA at St Joseph's University, Bangalore.
 
